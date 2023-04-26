@@ -1,0 +1,1 @@
+-novid -console -high -nojoy +exec autoexec +cl_threaded_bone_setup "1" +fps max 120
